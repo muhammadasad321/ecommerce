@@ -1,0 +1,48 @@
+User-agent: *
+allow: /
+
+Disallow: /admin/
+Disallow: /*.htm$
+Disallow: /smtp/
+Disallow: /fonts/
+Disallow: /media/
+Disallow: /favicon/
+Disallow: /js/
+Disallow: /*.html$
+Disallow: /add_to_cart.inc.php
+Disallow: /cart.php
+Disallow: /categories.php
+Disallow: /check_otp.php
+Disallow: /checkout.php
+Disallow: /connection.inc.php
+Disallow: /footer.php
+Disallow: /forgot_password_sumbit.php
+Disallow: /forgot_password.php
+Disallow: /functions.inc.php
+Disallow: /Homepage.css
+Disallow: /ins-ratting.php
+Disallow: /login_submit.php
+Disallow: /logout.php
+Disallow: /mail.php
+Disallow: /manage_cart.php
+Disallow: /my_order_details.php
+Disallow: /my_order.php
+Disallow: /payment_complete.php
+Disallow: /payment_fail.php
+Disallow: /profile.php
+Disallow: /register_submit.php
+Disallow: /search.php
+Disallow: /send_message.php
+Disallow: /send_otp.php
+Disallow: /set_cart.php
+Disallow: /set_cart.php
+Disallow: /sidebar.js
+Disallow: /style.css
+Disallow: /sub_categories.php
+Disallow: /thank_you.php
+Disallow: /top.php
+Disallow: /update_password.php
+Disallow: /update_profile.php
+
+
+
